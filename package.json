@@ -1,0 +1,20 @@
+{
+  "name": "size-limitation-of-codesandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/y1j2x34/size-limitation-of-codesandbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/y1j2x34/size-limitation-of-codesandbox/issues"
+  },
+  "homepage": "https://github.com/y1j2x34/size-limitation-of-codesandbox#readme"
+}
