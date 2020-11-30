@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/y1j2x34/size-limitation-of-codesandbox/issues"
   },
-  "homepage": "https://github.com/y1j2x34/size-limitation-of-codesandbox#readme"
+  "homepage": "https://github.com/y1j2x34/size-limitation-of-codesandbox#readme",
+  "dependencies": {
+    "test-size-limitation-of-codesandbox": "1.0.0"
+  }
 }
